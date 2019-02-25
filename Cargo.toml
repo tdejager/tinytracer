@@ -1,0 +1,9 @@
+[package]
+name = "tinytracer"
+version = "0.1.0"
+authors = ["Tim de Jager <tdejager@smart-robotics.nl>"]
+edition = "2018"
+
+[dependencies]
+num-traits = "0.2.6"
+byteorder= "1.3.1"
